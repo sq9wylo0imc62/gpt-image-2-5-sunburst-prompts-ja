@@ -105,13 +105,12 @@ That is the point. Keep the structure (subject + light + framing + setting + fin
 ## Related repositories
 
 - **Same model, this language** — the other half of this pair: [gpt-image-2-5-sunburst-api-ja](https://github.com/sq9wylo0imc62/gpt-image-2-5-sunburst-api-ja)
-- **Same model, other languages** — 10 more language builds: English [gpt-image-2-5-sunburst-api](https://github.com/ze32df/gpt-image-2-5-sunburst-api) · 中文 [gpt-image-2-5-sunburst-api-cn](https://github.com/jrextu923/gpt-image-2-5-sunburst-api-cn) · Deutsch [gpt-image-2-5-sunburst-api-de](https://github.com/lgqmju1m8n1/gpt-image-2-5-sunburst-api-de) · Español `gpt-image-2-5-sunburst-api-es` · Français `gpt-image-2-5-sunburst-api-fr` · Relay/gateway `gpt-image-2-5-sunburst-api-gateway` · Bahasa [gpt-image-2-5-sunburst-api-id](https://github.com/dakrgayvhgs/gpt-image-2-5-sunburst-api-id) · 한국어 `gpt-image-2-5-sunburst-api-ko` · Português `gpt-image-2-5-sunburst-api-pt` · Русский `gpt-image-2-5-sunburst-api-ru`
+- **Same model, other languages** — 10 more language builds: English [gpt-image-2-5-sunburst-api](https://github.com/ze32df/gpt-image-2-5-sunburst-api) · 中文 [gpt-image-2-5-sunburst-api-cn](https://github.com/jrextu923/gpt-image-2-5-sunburst-api-cn) · Deutsch [gpt-image-2-5-sunburst-api-de](https://github.com/lgqmju1m8n1/gpt-image-2-5-sunburst-api-de) · Español [gpt-image-2-5-sunburst-api-es](https://github.com/tkrzxl6sp/gpt-image-2-5-sunburst-api-es) · Français `gpt-image-2-5-sunburst-api-fr` · Relay/gateway `gpt-image-2-5-sunburst-api-gateway` · Bahasa [gpt-image-2-5-sunburst-api-id](https://github.com/dakrgayvhgs/gpt-image-2-5-sunburst-api-id) · 한국어 `gpt-image-2-5-sunburst-api-ko` · Português [gpt-image-2-5-sunburst-api-pt](https://github.com/a85c7zq/gpt-image-2-5-sunburst-api-pt) · Русский `gpt-image-2-5-sunburst-api-ru`
 - **More models in this language** — [midjourney-api-ja](https://github.com/apimartt1q/midjourney-api-ja) · [gemini-2-5-flash-image-preview-api-ja](https://github.com/ic7skkh/gemini-2-5-flash-image-preview-api-ja) · [nano-banana-api-ja](https://github.com/e4ylndl3g-v/nano-banana-api-ja) · [gemini-3-1-flash-image-preview-api-ja](https://github.com/gv4ju/gemini-3-1-flash-image-preview-api-ja) · [nano-banana-2-api-ja](https://github.com/lpbxkrzbfel/nano-banana-2-api-ja) · [gemini-3-pro-image-preview-api-ja](https://github.com/zzsxs8r/gemini-3-pro-image-preview-api-ja)
 - **Topic hubs** — every build of this model, all languages: [gpt-image-2-5-sunburst](https://github.com/topics/gpt-image-2-5-sunburst) · [gpt-image-2-5-sunburst-api](https://github.com/topics/gpt-image-2-5-sunburst-api)
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
